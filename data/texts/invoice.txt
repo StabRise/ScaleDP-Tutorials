@@ -1,0 +1,45 @@
+                                                        Company Number: 09522289
+
+                                                            73 Douglas Buildings
+                                                                 Marshalsea Road
+                                                                          London
+                                                                         SE1 1EL
+                                                                  United Kingdom
+
+                                                                 +46 761 000 000
+                                                          info@yakshavingltd.com
+
+───────
+INVOICE
+───────
+
+Invoice Number: 15000001
+Invoice Date: 2015/04/01
+
+To: Acme Rocket-Power Products, Inc.
+    Anvil Department
+    Fairfield
+    New Jersey
+    USA
+
+ DESCRIPTION                                 │ UNIT PRICE │ QUANTITY │   AMOUNT
+─────────────────────────────────────────────┼────────────┼──────────┼──────────
+ Wrought Iron Anvil                          │       74 € │       11 │    814 €
+
+
+                                                                  ══════════════
+                                                                  Total:  814 €
+                                                                  ══════════════
+
+VAT reverse-charged.
+
+Payment should be made within 10 days by bank transfer.
+Please transfer the total amount to:
+
+─────────────────────────────
+BANK: HSBC BANK PLC
+SORT CODE: 00-00-00
+ACCOUNT NUMBER: 00000000
+IBAN: GB00AAAA00000000000000
+SWIFT: AAAAGB00
+─────────────────────────────
