@@ -1,7 +1,7 @@
-![apicom.pro](https://deidentify.online/media/filer_public/de/fe/defef052-b877-4052-a9b1-e80cc218fcf4/sparkpdflogo.png)
+![SparkPdf](https://stabrise.com/media/filer_public_thumbnails/filer_public/de/31/de3156f0-386d-4b3b-ac7e-8856a38f7c1e/sparkpdflogo.png__808x214_subsampling-2.webp)
 
 <p align="center">
-    <a href="https://circleci.com/gh/stabrise/spark-pdf"><img alt="Build" src="https://img.shields.io/circleci/build/github/stabrise/spark-pdf/main"></a>
+    <a href="https://pypi.org/project/pyspark-pdf/" alt="Package on PyPI"><img src="https://img.shields.io/pypi/v/pyspark-pdf.svg" /></a>    
     <a href="https://github.com/stabrise/spark-pdf/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/stabrise/spark-pdf.svg?color=blue"></a>
     <a href="https://stabrise.com"><img alt="StabRise" src="https://img.shields.io/badge/powered%20by-StabRise-orange.svg?style=flat&colorA=E1523D&colorB=007D8A"></a>
 </p>
