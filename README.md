@@ -10,7 +10,7 @@
 
 # Spark Pdf Tutorials
 
-Spark-Pdf is a library for processing documents using Apache Spark.
+[Spark-Pdf](https://github.com/StabRise/spark-pdf/) is a library for processing documents using Apache Spark.
 And this repository contains jupyter notebooks with tutorials and examples of usage Spark-Pdf library.
 
 Spark-Pdf includes the following features:
