@@ -4,9 +4,10 @@ version = "0.1.0"
 description = ""
 authors = ["Mykola Melnyk <kolia1985@gmail.com>"]
 readme = "README.md"
+homepage = "https://stabrise.com/spark-pdf/"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.10"
 jupyter = "^1.1.1"
 
 
