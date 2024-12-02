@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "spak-pdf-tutorials"
+name = "scaledp-tutorials"
 version = "0.1.0"
-description = ""
+description = "Runable examples for ScaledP"
 authors = ["Mykola Melnyk <kolia1985@gmail.com>"]
 readme = "README.md"
-homepage = "https://stabrise.com/spark-pdf/"
+homepage = "https://stabrise.com/scaledp/"
 
 [tool.poetry.dependencies]
 python = ">=3.10"
