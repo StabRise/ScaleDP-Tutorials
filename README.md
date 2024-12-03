@@ -29,6 +29,18 @@ ScaleDP includes the following features:
 - Run NER on text extracted from PDF documents/Images
 - Visualize NER results
 
+## Table of Contents
+
+We advise to run all examples through Google Colab for the easiest setup. Google Colab allows you to run it for free. All examples were tested using Google Colab, so it should be the most stable platform. However, any other cloud provider or local run should work. 
+
+| Chapter                           | Notebook  |
+|-----------------------------------|---|
+| 1: QuickStart with ScaleDP        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/1.QuickStart.ipynb)   |
+| 2: Example of usage different OCR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/2.Ocr.ipynb)  |
+| 3: NER Examples                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.Ner.ipynb)  |
+
+## Local Run
+
 ### Requirements
 
 - Python 3.11
@@ -36,6 +48,3 @@ ScaleDP includes the following features:
 - Java 8, 11
 - Tesseract 5.0 or higher
 - Jupyter Lab | Google Colab
-
-### For run examples please open the notebooks in Google Colab or Jupyter Lab.
-
