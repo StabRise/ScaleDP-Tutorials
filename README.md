@@ -52,3 +52,9 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 - Java 8, 11
 - Tesseract 5.0 or higher
 - Jupyter Lab | Google Colab
+
+![](./images/ner_visualize.png)
+
+![](./images/ner_visualize_1.png)
+
+
