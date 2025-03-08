@@ -33,11 +33,13 @@ ScaleDP includes the following features:
 
 We advise to run all examples through Google Colab for the easiest setup. Google Colab allows you to run it for free. All examples were tested using Google Colab, so it should be the most stable platform. However, any other cloud provider or local run should work. 
 
-| Chapter                           | Notebook  |
-|-----------------------------------|---|
+| Chapter                           | Notebook                                                                                                                                                                           |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1: QuickStart with ScaleDP        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/1.QuickStart.ipynb)   |
-| 2: Example of usage different OCR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/2.Ocr.ipynb)  |
-| 3: NER Examples                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.Ner.ipynb)  |
+| 2: Example of usage different OCR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/2.Ocr.ipynb)          |
+| 3: NER Examples                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.Ner.ipynb)          |
+| 4: LLM NER Examples               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.LLMNer.ipynb)       |
+| 5: With Spark PDF                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.WithSparkPdf.ipynb) |
 
 ## Local Run
 
