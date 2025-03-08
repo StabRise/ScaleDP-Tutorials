@@ -24,10 +24,12 @@ ScaleDP includes the following features:
 
 - Load PDF documents/Images
 - Extract text from PDF documents/Images
-- Extract images from PDF documents
-- OCR Images/PDF documents
-- Run NER on text extracted from PDF documents/Images
-- Visualize NER results
+- Extract text Images/PDF documents, OCR
+- Zero-shot Data extraction from the Images/PDF documents using LLM
+- Object detection over Images/PDF documents
+- NER/LLM over Images/PDF documents 
+- Visualize results on the images
+- Compatible with Spark PDF Datasource
 
 ## Table of Contents
 
@@ -38,8 +40,8 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 | 1: QuickStart with ScaleDP        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/1.QuickStart.ipynb)   |
 | 2: Example of usage different OCR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/2.Ocr.ipynb)          |
 | 3: NER Examples                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.Ner.ipynb)          |
-| 4: LLM NER Examples               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.LLMNer.ipynb)       |
-| 5: With Spark PDF                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/3.WithSparkPdf.ipynb) |
+| 4: LLM NER Examples               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/4.LLMNer.ipynb)       |
+| 5: With Spark PDF                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/5.WithSparkPdf.ipynb) |
 
 ## Local Run
 
