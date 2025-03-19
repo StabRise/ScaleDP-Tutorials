@@ -1,6 +1,6 @@
 <p align="center">
   <br/>
-    <img alt="ScaleDP" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/4a/7d/4a7d97c2-50d7-4b7a-9902-af2df9b574da/scaledplogo.png__1000x300_subsampling-2.webp" width="450" style="max-width: 100%;">
+    <img alt="ScaleDP" src="https://raw.githubusercontent.com/StabRise/ScaleDP/refs/heads/master/images/scaledp.webp" width="450" style="max-width: 100%;">
   <br/>
 </p>
 
