@@ -59,11 +59,12 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 
 ### Object Detection Examples
 
-| Chapter                | Notebook                                                                                                                                                                                                  |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1: YoloOnnxDetector    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/object-detection/1.YoloOnnxDetector.ipynb)   |
-| 2: Face Detection      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/object-detection/2.FaceDetection.ipynb)      |
-| 3: Signature Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/object-detection/3.SignatureDetection.ipynb) |
+| Chapter                | Notebook                                                                                                                                                                                                          |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1: YoloOnnxDetector    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/object-detection/1.YoloOnnxDetector.ipynb)           |
+| 2: Face Detection      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/object-detection/2.FaceDetection.ipynb)              |
+| 3: Signature Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/object-detection/3.SignatureDetection.ipynb)         |
+| 1: YoloOnnxDetectorBenchmarks    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/object-detection/4.YoloOnnxDetectorBenchmarks.ipynb) |
 
 ### De-identification Examples
 
