@@ -57,6 +57,12 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 | 1: NER Examples     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/ner/1.Ner.ipynb)    |
 | 2: LLM NER Examples | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/ner/2.LLMNer.ipynb) |
 
+### Embeddings Examples
+
+| Chapter                              | Notebook                                                                                                                                                                                               |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1: Text Splitting and Embeddings     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StabRise/scaledp-tutorials/blob/master/embeddings/1.TextSplitterAndEmbeddings.ipynb) |
+
 ### Object Detection Examples
 
 | Chapter                       | Notebook                                                                                                                                                                                                          |
